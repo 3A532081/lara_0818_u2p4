@@ -1,4 +1,4 @@
-@extends('postsLayouts.master')
+@extends('layouts.master')
 
 @section('title', 'Clean Blog')
 
